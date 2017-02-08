@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\denis\documents\visual studio 2015\projects\1. vjezba\registar\registar\serijalizator.h(70): warning C4101: 'str': unreferenced local variable
+  Registar.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\1. vjezba\Registar\Debug\Registar.exe
+  Registar.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\1. vjezba\Registar\Debug\Registar.pdb (Full PDB)

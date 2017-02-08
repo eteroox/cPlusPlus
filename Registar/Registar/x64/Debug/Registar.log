@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\piis\1. vjezba\registar\registar\serijalizator.h(64): warning C4172: returning address of local variable or temporary: novaOsoba
+  Registar.vcxproj -> E:\PIIS\1. vjezba\Registar\x64\Debug\Registar.exe
+  Registar.vcxproj -> E:\PIIS\1. vjezba\Registar\x64\Debug\Registar.pdb (Full PDB)

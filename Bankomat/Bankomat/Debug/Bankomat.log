@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\denis\documents\visual studio 2015\projects\5.vjezba\bankomat\bankomat\pin.h(98): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\denis\documents\visual studio 2015\projects\5.vjezba\bankomat\bankomat\pin.h(180): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\denis\documents\visual studio 2015\projects\5.vjezba\bankomat\bankomat\pin.h(279): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bankomat.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\5.vjezba\Bankomat\Debug\Bankomat.exe
+  Bankomat.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\5.vjezba\Bankomat\Debug\Bankomat.pdb (Full PDB)

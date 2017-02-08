@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\denis\documents\visual studio 2015\projects\c++\1.vjezba\kalendar\kalendar\kalendar\kalendar\kalendar.h(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\denis\documents\visual studio 2015\projects\c++\1.vjezba\kalendar\kalendar\kalendar\kalendar\kalendar.h(105): warning C4717: 'Kalendar::izbrisiBiljesku': recursive on all control paths, function will cause runtime stack overflow
+  Kalendar.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\c++\1.vjezba\Kalendar\Kalendar\Kalendar\Debug\Kalendar.exe
+  Kalendar.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\c++\1.vjezba\Kalendar\Kalendar\Kalendar\Debug\Kalendar.pdb (Full PDB)

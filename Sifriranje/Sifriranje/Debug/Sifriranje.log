@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\denis\documents\visual studio 2015\projects\4.vjezba\sifriranje\sifriranje\sifriranjeascii.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\denis\documents\visual studio 2015\projects\4.vjezba\sifriranje\sifriranje\dodatak.h(100): warning C4018: '>=': signed/unsigned mismatch
+  Sifriranje.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\4.vjezba\Sifriranje\Debug\Sifriranje.exe
+  Sifriranje.vcxproj -> C:\Users\denis\Documents\Visual Studio 2015\Projects\4.vjezba\Sifriranje\Debug\Sifriranje.pdb (Full PDB)
